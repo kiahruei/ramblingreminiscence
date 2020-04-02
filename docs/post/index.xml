@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Slumdown</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Slumdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Boredom-Induced Ramblings</title>
+      <link>/post/boredom-induced-ramblings/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/boredom-induced-ramblings/</guid>
+      <description>First Post! Hello! I’ve never created a blog using R before, this is very cool! I am very bored while quarantined at home, why do I feel like uni is over when finals are actually in a month? This is not good. Very not good. On the plus side, I’m very happy to be home and with family. I’ve missed my cat, although after being home for a grand total of 2 minutes I wonder why I did.</description>
+    </item>
     
     <item>
       <title>Tutorial part 1: Getting started</title>

@@ -1,0 +1,18 @@
+---
+title: Boredom-Induced Ramblings
+author: kiah
+date: '2020-04-02'
+slug: boredom-induced-ramblings
+categories: []
+tags: []
+---
+
+# First Post!
+Hello! I've never created a blog using R before, this is very cool! I am very bored while quarantined at home, why do I feel like uni is over when finals are actually in a month? This is not good. *Very not good*. On the plus side, I'm very happy to be home and with family. I've missed my cat, although after being home for a grand total of 2 minutes I wonder why I did. Here's a picture of that rascal:
+
+![](https://drive.google.com/file/d/1YTGw9LCnoQ2uowCEN6HZzz-jv4vokc9T/view?usp=drivesdk)
+
+But I do love her dearly! (If you can resist that lil tongue then you're not human). Even though she sleeps on my keyboard and never lets me do any work.
+
+### Stay safe and sanitised, everyone!
+
